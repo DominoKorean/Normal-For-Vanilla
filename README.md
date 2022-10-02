@@ -2,6 +2,8 @@
 
 Normal For Vanilla adds a 64x resolution normal to the existing vanilla texture.
 
+
+
 ## Description
 
 I wanted to make a resource pack that anyone can use while giving simple textures.
@@ -13,21 +15,25 @@ This pack may be applied in an unintended way when using a Lab pbr that stores A
 
 To check whether the shader supports the pbr version and whether it supports AO maps, please refer [here](https://wiki.shaderlabs.org/wiki/LabPBR_Supported_Packs).
 
+
+
 ## Copyright
 
 You can do whatever you want with my texture pack, screenshots, videos, modifications for personal use or redistribution, as long as you don't sell it and provide a link to this page or my Patreon page.
 (This is the same condition as [Vanilla-Normal-Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed).
 
+
+
 ## screenshots
 
-![screanshot1-Kappa](Normal-For-Vanilla\screenshots\2022-01-20_23.03.59.png)
+![](https://user-images.githubusercontent.com/110039366/193456238-e77bf40f-ef87-4b81-8636-0c7a9f5eecfd.png)
 
-![screanshot2-Kappa](Normal-For-Vanilla\screenshots\2022-02-04_20.59.54.png)
+![](https://user-images.githubusercontent.com/110039366/193456255-cd98c29b-d2ac-4ccc-84c8-001f3fa11236.png)
 
-![screanshot3-Kappa](Normal-For-Vanilla\screenshots\2022-09-18_22.57.15)
+![](https://user-images.githubusercontent.com/110039366/193456262-6389797a-b982-479e-9ba6-094e3f2e0223.png)
 
-![screanshot1-MollyVX](Normal-For-Vanilla\screenshots\2022-09-18_22.59.19.png)
+![](https://user-images.githubusercontent.com/110039366/193456268-45352406-250b-47d4-b368-8672b86cbe67.png)
 
-![screanshot1-VXFluff](Normal-For-Vanilla\screenshots\2022-10-02_21.23.13.png)
+![](https://user-images.githubusercontent.com/110039366/193456280-0882ce9d-7b84-460f-9b1b-7fbf72f8f063.png)
 
-![screanshot1-VXFluff](Normal-For-Vanilla\screenshots\2022-10-02_21.24.14.png)
+![](https://user-images.githubusercontent.com/110039366/193456288-41fd4bec-cb33-475b-9a63-6555b91215a7.png)
