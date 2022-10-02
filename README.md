@@ -20,14 +20,14 @@ You can do whatever you want with my texture pack, screenshots, videos, modifica
 
 ## screenshots
 
-![screanshot1](Normal for Vanila\screenshots\2022-01-20_23.03.59.png)
+![screanshot1-Kappa](screenshots\2022-01-20_23.03.59.png)
 
-![screanshot1](Normal for Vanila\screenshots\2022-02-04_20.59.54.png)
+![screanshot2-Kappa](screenshots\2022-02-04_20.59.54.png)
 
-![screanshot1](Normal for Vanila\screenshots\2022-09-18_22.57.15)
+![screanshot3-Kappa](screenshots\2022-09-18_22.57.15)
 
-![screanshot1](Normal for Vanila\screenshots\2022-09-18_22.59.19.png)
+![screanshot1-MollyVX](screenshots\2022-09-18_22.59.19.png)
 
-![screanshot1](Normal for Vanila\screenshots\2022-10-02_21.23.13.png)
+![screanshot1-VXFluff](screenshots\2022-10-02_21.23.13.png)
 
-![screanshot1](Normal for Vanila\screenshots\2022-10-02_21.24.14.png)
+![screanshot1-VXFluff](screenshots\2022-10-02_21.24.14.png)
