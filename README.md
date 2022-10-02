@@ -19,8 +19,8 @@ To check whether the shader supports the pbr version and whether it supports AO 
 
 ## Copyright
 
-You can do whatever you want with my texture pack, screenshots, videos, modifications for personal use or redistribution, as long as you don't sell it and provide a link to this page or my Patreon page.
-(This is the same condition as [Vanilla-Normal-Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed).)
+You can do whatever you want with my texture pack, screenshots, videos, modifications or redistribution, as long as you don't sell it and provide a link to this page or my Patreon page.
+(This is the almost same condition as [Vanilla-Normal-Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed).)
 
 
 
