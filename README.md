@@ -41,7 +41,7 @@ You can do whatever you want with my texture pack, screenshots, videos, modifica
 
 ## Ect link
 
-### [patreon](https://www.patreon.com/domino_kr)
+### [Patreon](https://www.patreon.com/domino_kr)
 
 ### [Discord-server](https://discord.gg/D5zEJx3AFE)
 The Discord server is operated in Korean, but if you ask a question in another language such as English, we can answer your question.
