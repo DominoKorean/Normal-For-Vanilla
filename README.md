@@ -46,3 +46,7 @@ You can do whatever you want with my texture pack, screenshots, videos, modifica
 ### [Discord-server](https://discord.gg/D5zEJx3AFE)
 The Discord server is operated in Korean, but if you ask a question in another language such as English, we can answer your question.
 (If there is something that is impossible with my knowledge, I will use a translator to answer it. In this case, the sentence may be a little awkward.)
+
+### [Twitter](https://twitter.com/DominoKorean)
+
+### [Planet-Craft](https://www.planetminecraft.com/member/domino_kr)
