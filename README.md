@@ -8,6 +8,9 @@ Normal For Vanilla adds a 64x resolution normal to the existing vanilla texture.
 
 I wanted to make a resource pack that anyone can use while giving simple textures.
 
+This pack can be used by anyone for their own projects.
+If you want to use it, please read the article about copyright below.
+
 This pack will be continuously updated.
 
 When applying this pack, if your shader is Lab pbr, change it to Old pbr through settings or turn off AO maps.
@@ -19,8 +22,13 @@ To check whether the shader supports the pbr version and whether it supports AO 
 
 ## Copyright
 
-You can do whatever you want with my texture pack, screenshots, videos, modifications or redistribution, as long as you don't sell it and provide a link to this page or my Patreon page.
-(This is the almost same condition as [Vanilla-Normal-Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed).)
+This resource pack can be used as long as the source is properly indicated.
+For example, if you want to make a resource pack that adds Specular textures to this pack, 
+you can leave the source by including Source.txt in the repository inside the pack.
+
+If you want to make a mod or use it for a work other than Minecraft, you can leave the source by indicating the link to this GitHub repository in the description window or in the credits.
+
+If you upload videos or screenshots to social media such as YouTube, you do not need to indicate the source.
 
 
 
