@@ -1,3 +1,14 @@
+# Discontinued Project
+This project is currently discontinued. This is because there are many higher-quality similar resource packs available, and while there is value in it being open-source, the quality does not match the time invested in developing this resource pack. Instead, I am leveraging the experience gained from developing this resource pack to work on projects such as Pastellica PBR, Vanilla RTX Renewed, PBR Tweaks, and more.
+
+## Terms of Use
+Simultaneously with discontinuing the project, I intend to make some changes to the terms of use related to the copyright of this resource pack. Distributing Normal for Vanilla without substantial modifications is still prohibited. However, if you simply provide proper attribution within the resource pack files or in posts where the resource pack is distributed, you are free to use it. You can also sell resource packs that include some of the files from this resource pack or resource packs based on this resource pack for commercial purposes.
+
+
+
+
+---
+
 # Normal For Vanilla
 
 Normal For Vanilla adds a 64x resolution normal to the existing vanilla texture.
